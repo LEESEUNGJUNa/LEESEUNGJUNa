@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B1BFF7&size=26&center=true&vCenter=true&lines=BackEnd+Developer+SeungJun+Lee)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A7F7A5&lines=BackEnd+Developer+SeungJun+Lee)](https://git.io/typing-svg)
 
 
 
