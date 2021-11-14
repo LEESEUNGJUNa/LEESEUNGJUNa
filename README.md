@@ -3,7 +3,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=slide&color=auto&height=300&section=header&text=SeungJun&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SeungJun&fontSize=90" />
 
 
 
@@ -13,7 +13,7 @@
 ---
 
 <div align=center>
-🔥Learning🔥
+🔨Stack🔨
 <p>
 <img src= "https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=" width="50" height="20"/>
  <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="50" height="20"/>
@@ -45,8 +45,7 @@
  
  
  
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LEESEUNGJUNa&show_icons=true&theme=radical)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LEESEUNGJUNa&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
