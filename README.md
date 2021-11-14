@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23E7F3F7&center=true&vCenter=true&lines=BackEnd+Developer+Seung+Jun+Lee)](https://git.io/typing-svg)
 
 
 
