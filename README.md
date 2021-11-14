@@ -3,7 +3,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=SeungJun&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=SeungJun&fontSize=90" />
 
 
 
